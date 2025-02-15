@@ -1,0 +1,3 @@
+[submodule "proto_UBI/lib/forge-std"]
+	path = proto_UBI/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
